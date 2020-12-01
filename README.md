@@ -23,9 +23,8 @@ Estas son las actividades en las que faltaba el dataset o que mencioné le habí
 >Esta fue una aplicación para visualizar de datos textuales donde utilicé cloud of words.
 
 >Nombre de los archivos:
->>*PIT_Visualización_de_información_textual.ipynb*
-
->>*Youtube04-Eminem.csv*
+>> - *PIT_Visualización_de_información_textual.ipynb*
+>> - *Youtube04-Eminem.csv*
 
 **4. Evaluación final -** *30 de noviembre de 2020*
 >Estos son los archivos del examen final de la materia. Es un modelo que predice a qué lenguaje de programación hacen referencia determinados párrafos o preguntas frecuentes a través de un PDF. Este PDF contiene un tag de lenguaje de programación diferente en cada párrafo. Aquí envío el notebook y el PDF. Mejoré el modelo que había enviado previamente para que resultara en mejor accuracy.
