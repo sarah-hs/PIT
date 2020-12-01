@@ -5,7 +5,7 @@ Proyectos de la materia de Procesamiento Inteligente de Texto
 
 <br>
 
-**1. Configuración de herramienta PIT -** *17 de agosto de 2020*<br>
+#### **1. Configuración de herramienta PIT -** *17 de agosto de 2020*<br>
 Fue una exposición sobre Apache OpenNLP. Se la envié hace tiempo por correo pero como no la vi calificad en la e42 por si acaso se la mando nuevamente.
  
  >Nombre del archivo:
@@ -13,7 +13,7 @@ Fue una exposición sobre Apache OpenNLP. Se la envié hace tiempo por correo pe
 
 <br>
 
-**2.  Proyecto: Extracción de la información de textos -** *22 de noviembre de 2020*<br>
+#### **2.  Proyecto: Extracción de la información de textos -** *22 de noviembre de 2020*<br>
 En este proyecto al parecer el formato del archivo no era legible así que le mando el código y el dataset.
 
 >Nombre de los archivos:
@@ -21,7 +21,7 @@ En este proyecto al parecer el formato del archivo no era legible así que le ma
 
 <br>
 
-**3. Visualización gráfica de información textual -** *09 de noviembre*<br>
+#### **3. Visualización gráfica de información textual -** *09 de noviembre*<br>
 Esta fue una aplicación para visualizar de datos textuales donde utilicé cloud of words.
 
 >Nombre de los archivos:
@@ -30,7 +30,7 @@ Esta fue una aplicación para visualizar de datos textuales donde utilicé cloud
 
 <br>
 
-**4. Evaluación final -** *30 de noviembre de 2020*<br>
+#### **4. Evaluación final -** *30 de noviembre de 2020*<br>
 Estos son los archivos del examen final de la materia. Es un modelo que predice a qué lenguaje de programación hacen referencia determinados párrafos o preguntas frecuentes a través de un PDF. Este PDF contiene un tag de lenguaje de programación diferente en cada párrafo. Aquí envío el notebook y el PDF. Mejoré el modelo que había enviado previamente para que resultara en mejor accuracy.
 
 >Nombre de los archivos:
