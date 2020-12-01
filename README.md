@@ -24,6 +24,7 @@ Estas son las actividades en las que faltaba el dataset o que mencioné le habí
 
 >Nombre de los archivos:
 >>*PIT_Visualización_de_información_textual.ipynb*
+
 >>*Youtube04-Eminem.csv*
 
 **4. Evaluación final -** *30 de noviembre de 2020*
@@ -31,4 +32,5 @@ Estas son las actividades en las que faltaba el dataset o que mencioné le habí
 
 >Nombre de los archivos:
 >>*PIT_Examen_final.ipynb*
+
 >>*Programming languages.pdf*
