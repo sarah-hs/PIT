@@ -9,7 +9,7 @@ Estas son las actividades en las que faltaba el dataset o que mencioné le habí
  >Fue una exposición sobre Apache OpenNLP. Se la envié hace tiempo por correo pero como no la vi calificad en la e42 por si acaso se la mando nuevamente.
  
  >Nombre del archivo:
- >*Configuración de herramientas PIT - Apache openNLP.pptx*
+ >>*Configuración de herramientas PIT - Apache openNLP.pptx*
 
 **2.  Proyecto: Extracción de la información de textos -** *22 de noviembre de 2020*
   En este proyecto al parecer el formato del archivo no era legible así que le mando el código y el dataset.
