@@ -1,6 +1,4 @@
 # PIT
-Proyectos de la materia de Procesamiento Inteligente de Texto
-
 >Estas son las actividades en las que faltaba el dataset o que mencioné le había enviado previamente por correo. Se las mando en orden con fechas y con el nombre de los archivos adjuntos correspondientes a esas actividades.
 
 <br>
