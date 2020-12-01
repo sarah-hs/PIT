@@ -7,6 +7,7 @@ Estas son las actividades en las que faltaba el dataset o que mencioné le habí
 
 **1. Configuración de herramienta PIT -** *17 de agosto de 2020*
  >Fue una exposición sobre Apache OpenNLP. Se la envié hace tiempo por correo pero como no la vi calificad en la e42 por si acaso se la mando nuevamente.
+ 
  >Nombre del archivo: 
  >>*Configuración de herramientas PIT - Apache openNLP.pptx*
 
