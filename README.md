@@ -14,7 +14,7 @@ Fue una exposición sobre Apache OpenNLP. Se la envié hace tiempo por correo pe
 ### **2.  Proyecto: Extracción de la información de textos -** *22 de noviembre de 2020*<br>
 En este proyecto al parecer el formato del archivo no era legible así que le mando el código y el dataset está incluido y se carga desde Tensorflow datasets.
 
->Nombre de los archivos:
+>Nombre del archivo:
 > - *PIT_Extracción_de_información_de_textos.ipynb*
 
 <br>
